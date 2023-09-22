@@ -1,0 +1,17 @@
+{
+    "CurrentAge":40,
+    "RetirementAge":68,
+    "CurrentAnnualIncome":100000,
+    "SpouseAnnualIncome":750000,
+    "CurrentRetirementSavings":50000,
+    "CurrentRetirementContribution":10,
+    "AnnualRetirement":0.25,
+    "SocialSecurity":"Yes",
+    "SocialSecurityOverride":4000,
+    "additionalIncome":500,
+    "retirementDuration":20,
+    "retirementAnnualIncome":75,
+    "preRetirementRoi":8,
+    "postRetirementRoi":5,
+    "UpdatedRetirementAge":65
+}
